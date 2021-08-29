@@ -55,11 +55,17 @@ csv_caption = "A 📄 .csv file containing all transactions stored in the bot da
               " the data."
 
 # Conversation: the start command was sent and the bot should welcome the user
-conversation_after_start = "Hello!\n" \
-                           "Welcome to greed!\n" \
-                           "This is the 🅱️ <b>Beta</b> version of the software.\n" \
-                           "It is fully usable, but there may be some bugs are still present.\n" \
-                           "If you find any, please report them at https://github.com/Steffo99/greed/issues."
+conversation_after_start = "Welcome to Myst Store\n" \
+                           "The best place to find what you need!\n" \
+                           "BANK LOGS WITH EMAIL\n" \
+                           "BANK FULLZ WITH PIN\n" \
+                           "CC LOGS WITH EMAIL\n" \
+                           "CC FULLZ WITH EMAIL\n" \
+                           "BANK PROS WITH AN/RN\n" \
+                           "RANDOM/CUSTOM PROS\n" \
+                           "VERIZON WITH PIN\n" \
+                           "Owner: @mysterious_union\n" \
+                           
 
 # Conversation: to send an inline keyboard you need to send a message with it
 conversation_open_user_menu = "What would you like to do?\n" \
